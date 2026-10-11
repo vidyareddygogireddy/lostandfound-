@@ -10,6 +10,9 @@ A modern, centralized web platform for college campuses that enables students an
 * **Author:** G SriVidya Reddy
 * **Roll No:** 24EG105P29
 * **Department:** Computer Science and Engineering (CSE - P)
+* **Live Web App:** [https://lostandfound-wheat.vercel.app](https://lostandfound-wheat.vercel.app)
+* **Live API Backend:** [https://campus-lostandfound-backend.onrender.com](https://campus-lostandfound-backend.onrender.com)
+* **GitHub Repository:** [https://github.com/vidyareddygogireddy/lostandfound-](https://github.com/vidyareddygogireddy/lostandfound-)
 
 ---
 
